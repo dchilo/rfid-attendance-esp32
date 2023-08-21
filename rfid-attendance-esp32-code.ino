@@ -6,8 +6,8 @@
 #include <MFRC522.h>
 
 // Wi-Fi credentials
-const char* ssdi = "dch";
-const char* password = "xd123456";
+const char* ssdi = "";
+const char* password = "";
 
 // Create an instance of the web server
 WebServer server(80);
